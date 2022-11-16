@@ -11,6 +11,5 @@ int main() {
    } else {
      cout << (z = (a * x) + (b * (y * y))) << endl;
    }
-  
-   return 0;
+  return 0;
 }
